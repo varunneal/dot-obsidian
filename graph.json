@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:project",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#rain  ",
+      "color": {
+        "a": 1,
+        "rgb": 5405920
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.1228271484375,
+  "lineSizeMultiplier": 2.92124837239583,
+  "collapse-forces": false,
+  "centerStrength": 0.289306640625,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 186,
+  "scale": 0.8445863777354912,
+  "close": false
+}

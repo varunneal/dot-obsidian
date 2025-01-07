@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "efb7360e7c720cd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "35b30b440e5bfefc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "256efe16e2c13dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graphics engine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "graphics engine"
+            }
+          },
+          {
+            "id": "0fe3d3ad6da44819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "claude personality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude personality"
+            }
+          },
+          {
+            "id": "af30bc55bceb844a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "end myopia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "end myopia"
+            }
+          },
+          {
+            "id": "993b18c98d1ae020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xenoestrogens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "xenoestrogens"
+            }
+          },
+          {
+            "id": "9ba6d2e2b7583bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "projects"
+            }
+          },
+          {
+            "id": "7747c5ee52855b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bryan russett.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bryan russett"
+            }
+          },
+          {
+            "id": "0ab12b1a0198cbdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "projects"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9eb4fde601d3fcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "612f360ccdf9ab1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b375382395efa6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0561465e5d977d5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "glycin",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4fc5a588837969f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3d4ad5f8ec6f5bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bad7d423157bdbf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78279b7b6515e443",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journaling/2024/November/11-14-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 11-14-2024"
+            }
+          },
+          {
+            "id": "81019dbacfdd89a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "projects.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for projects"
+            }
+          },
+          {
+            "id": "f2e6118064c291e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hacker news insanity.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of hacker news insanity"
+            }
+          },
+          {
+            "id": "ae51aee5f4c2239e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ba3c1f996f825fb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "super-duper-audio-recorder:Start/Stop Recording": false,
+      "edit-history:Open edit history": false
+    }
+  },
+  "active": "0ab12b1a0198cbdd",
+  "lastOpenFiles": [
+    "radical anarchronism.md",
+    "Apple Notes/job quick-apply.md",
+    "gnostic hindu buddho christo synchronisms.md",
+    "gnostic hindu buddho christo synchronisms.md.edtz",
+    "Peaty Hormones & drugs & Haidut.md",
+    "Apple Notes/rzgeveGm4wEMunalqEYzqC6EIUcsfjfCaiXz6lr1whJ6xJSr67X9T2p9EnNNVVJO.md",
+    "hacker synthing.md",
+    "keshin's guide to talking to girls.md",
+    "coffee processing.md",
+    "files/coffee processing-20250105171000984.webp",
+    "files/coffee processing-20250105165558233.webp",
+    "files/coffee processing-20250105165533665.webp",
+    "coffee processing.md.edtz",
+    "Apple Notes/Autists, normies, gays, and fascists (racists).md",
+    "Apple Notes/Nietzsche.md",
+    "LandsharkSighs.md",
+    "graphics engine.md",
+    "bryan russett.md",
+    "this.md",
+    "b.md",
+    "concepts to explore.md",
+    "audio/recording-multitrack-2024-12-26T10-22-08-189Z.wav",
+    "audio",
+    "audio/recording-multitrack-2024-12-26T19-08-26-539Z.wav",
+    "hacker news insanity.md",
+    "projects.md",
+    "xenoestrogens.md",
+    "end myopia.md",
+    "claude personality.md",
+    "projects.md.edtz",
+    "files/claude personality-20241230143940599.webp",
+    "files/claude personality-20241230143915768.webp",
+    "files/claude personality-20241230135854774.webp",
+    "files/claude personality-20241230135643549.webp",
+    "files/claude personality-20241230135442234.webp",
+    "files/claude personality-20241230135430473.webp",
+    "files/LandsharkSighs-20241230134938651.webp",
+    "claude personality.md.edtz",
+    "the comet.md",
+    "Emo song narratives.md",
+    "philosophy texts and books.md",
+    "I feel everything and everything I feel hurts.md",
+    "xenoestrogens.md.edtz",
+    "Apple Notes/Autists, normies, gays, and fascists (racists).md.edtz",
+    "Apple Notes/Nietzsche.md.edtz",
+    "Untitled.canvas"
+  ]
+}

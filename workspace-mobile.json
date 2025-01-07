@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "e620be3060abe1f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd2a8277d8bdb7b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02c1460205e18e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "keshin's guide to talking to girls.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "keshin's guide to talking to girls"
+            }
+          },
+          {
+            "id": "ac7727654028507c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github recovery codes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "github recovery codes"
+            }
+          },
+          {
+            "id": "a7562278d05811b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode journey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "leetcode journey"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06a5f06946a4413e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "337f14d36827a108",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "131d1a8a24c8e758",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "15b83ddb7f0847e6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "23d7f039d13788d5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "06c76aea74284ffb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7e3585413c9ebcb1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "the pill.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "34da641902ae0366",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "the pill.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4c6a7e3f2ffcf84a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "the pill.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "edit-history:Open edit history": false
+    }
+  },
+  "active": "02c1460205e18e22",
+  "lastOpenFiles": [
+    "dog nature.md",
+    "dog nature.md 2.edtz",
+    "dog nature.md.edtz",
+    "waves.md",
+    "great inventions.md",
+    "UES studio.md",
+    "radical anarchronism.md",
+    "I feel everything and everything I feel hurts.md",
+    "this instinctive repulsion to flesh.md",
+    "genetic variation.md",
+    "cocaine dravidian.md",
+    "cocaine dravidian.md 2.edtz",
+    "cocaine dravidian.md.edtz",
+    "orthodox-zog dyad.md",
+    "orthodox-zog dyad.md.edtz",
+    "finite state automata.md",
+    "finite state automata.md.edtz",
+    "genetic variation.md.edtz",
+    "Model Context Protocol (mcp).md",
+    "this instinctive repulsion to flesh.md.edtz",
+    "b.md",
+    "Ammon Hillman.md",
+    "this.md",
+    "is Obamacare responsible for opioid crisis.md",
+    "is Obamacare responsible for opioid crisis.md 2.edtz",
+    "is Obamacare responsible for opioid crisis.md.edtz",
+    "ryan.md",
+    "perfect meal.md",
+    "Apple Notes/Books.md",
+    "history books.md",
+    "github recovery codes.md",
+    "fractal database.md",
+    "obisidan calendar pr.md",
+    "fake places.md",
+    "the pill.md",
+    "files/Screenshot 2024-10-05 at 4.51.40 PM.png",
+    "files/Pasted image 20241004115825.png",
+    "files/Pasted image 20241004135518.png",
+    "files/Screenshot 2024-10-02 at 11.30.29 AM.png",
+    "files/Pasted image 20241002112030.png",
+    "files/Pasted image 20240928022120.png",
+    "files/Pasted image 20240929160928.png",
+    "files/Pasted image 20240630181735.png",
+    "files/Pasted image 20240626120017.png",
+    "files/Pasted image 20240626115000.png"
+  ]
+}

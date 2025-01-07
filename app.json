@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "spellcheck": false,
+  "mobileToolbarCommands": [],
+  "mobilePullAction": "global-search:open",
+  "attachmentFolderPath": "./files",
+  "useMarkdownLinks": false,
+  "promptDelete": false
+}
