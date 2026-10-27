@@ -1,0 +1,17 @@
+body.theme-dark {
+  --code-normal:      #d4d4d4;   /* neutral light grey, no blue tint */
+  --code-keyword:     #cc7832;
+  --code-string:      #8dc891;
+  --code-operator:    #a9b7c6;
+  --code-punctuation: #a9b7c6;
+  --code-class:       #a9b7c6;
+  --code-attribute:   #9876aa;
+  --code-constant:    #9876aa;
+  --code-builtin:     #a9b7c6;
+  --code-value:       var(--code-keyword);
+}
+
+.theme-dark .HyperMD-codeblock .cm-comment {
+  color: #87a987 !important;
+  font-style: italic;
+}

@@ -5,7 +5,15 @@
   "spellcheck": false,
   "mobileToolbarCommands": [],
   "mobilePullAction": "global-search:open",
-  "attachmentFolderPath": "./files",
+  "attachmentFolderPath": "files",
   "useMarkdownLinks": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": false
 }

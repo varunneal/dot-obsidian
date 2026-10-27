@@ -1,8 +1,14 @@
 body {
-  --h1-size: 1.50em;
-  --h2-size: 1.30em;
+  --h1-size: 1.30em;
+  --h2-size: 1.25em;
   --h3-size: 1.20em;
   --h4-size: 1.12em;
   --h5-size: 1.12em;
-  --h6-size: 1.12em;
+  --h6-size: 1em;
+}
+
+/* Collapse the required blank line before tables in Live Preview. */
+.markdown-source-view.mod-cm6.is-live-preview
+  .cm-line:has(+ .cm-embed-block.cm-table-widget) br {
+  display: none;
 }

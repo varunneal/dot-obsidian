@@ -1,0 +1,101 @@
+/* Custom variable for decorative elements */
+.theme-light, .theme-dark {
+    --header-decoration-color: var(--text-muted);
+}
+
+/*
+  CodeMirror measures every .cm-line with getBoundingClientRect(), which
+  includes padding but never margins. Obsidian's CodeMirror build resolves
+  clicks and Up/Down arrow moves from that measured height map alone, so any
+  vertical margin on (or collapsing out of) a .cm-line shifts every click and
+  cursor move below it onto the wrong line. Decorations below must only add
+  padding to the line and draw the bar out of flow (position: absolute).
+  Obsidian already sets position: relative on .cm-line.
+*/
+
+/* Add line under H1 */
+.markdown-source-view .cm-line:has(.cm-header-1) {
+    padding-bottom: calc(0.8em + 3px);   /* 0.3em gap + 3px bar + 0.5em below */
+}
+.markdown-source-view .cm-line:has(.cm-header-1)::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0.5em;
+    height: 3px;
+    background: var(--header-decoration-color);
+}
+
+/* Add shorter line under H2 */
+.markdown-source-view .cm-line:has(.cm-header-2) {
+    padding-bottom: calc(0.8em + 2px);
+}
+.markdown-source-view .cm-line:has(.cm-header-2)::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 75%;
+    bottom: 0.5em;
+    height: 2px;
+    background: var(--header-decoration-color);
+}
+
+/* H3: bar to the left of the heading text.
+   Obsidian applies padding-top: var(--p-spacing) to every heading line; a
+   border-left would run through that padding, so the bar is drawn with an
+   absolute pseudo-element that starts below the gap. --h3-gap: 0px = tight look
+   (bar hugs the text); set it to var(--p-spacing) for standard heading spacing. */
+.markdown-source-view .cm-line:has(.cm-header-3) {
+    --h3-gap: 0px;
+    padding-top: var(--h3-gap);
+    padding-left: calc(0.8em + 3px);
+}
+.markdown-source-view .cm-line:has(.cm-header-3)::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: var(--h3-gap);
+    bottom: 0;
+    width: 3px;
+    background: var(--header-decoration-color);
+}
+
+/* H4 dot */
+.markdown-source-view .cm-line:has(.cm-header-4) {
+    padding-left: 1em;
+    position: relative;
+}
+
+.markdown-source-view .cm-line:has(.cm-header-4)::before {
+    content: "||";
+    color: var(--header-decoration-color);
+    position: absolute;
+    left: 0;
+}
+
+/* Fold arrows: Obsidian anchors the collapse arrow at the heading text start,
+   which H3/H4 pad to the right; pull the arrow left by the same amount so it
+   sits in the margin, clear of the bar and the || marker. */
+.markdown-source-view .cm-line:has(.cm-header-3) .cm-fold-indicator .collapse-indicator {
+    inset-inline-end: calc(0.8em + 3px);
+}
+.markdown-source-view .cm-line:has(.cm-header-4) .cm-fold-indicator .collapse-indicator {
+    inset-inline-end: 1em;
+}
+
+/* Styles for H5 headers in editor */
+.markdown-source-view .cm-header.cm-header-5 {
+    font-style: italic;
+}
+
+/* Styles for H6 headers in editor */
+.markdown-source-view .cm-header.cm-header-6 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Ensure header markers (#) are visible but subtle */
+.markdown-source-view .cm-formatting-header {
+    opacity: 0.7;
+}

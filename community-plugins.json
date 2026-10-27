@@ -1,4 +1,7 @@
 [
-  "lazy-plugins",
-  "image-captions"
+  "custom-codeblocks",
+  "image-converter",
+  "inline-code-copy",
+  "mononote",
+  "obsidian-latex"
 ]

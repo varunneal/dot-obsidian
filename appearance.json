@@ -1,10 +1,15 @@
 {
-  "accentColor": "#bc3737",
+  "accentColor": "#b93737",
   "theme": "obsidian",
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "snippets"
+    "snippets",
+    "headercolors",
+    "headers2",
+    "codeblock",
+    "latex"
   ],
   "cssTheme": "",
-  "interfaceFontFamily": "FOT-Matisse Pro"
+  "interfaceFontFamily": "FOT-Matisse Pro",
+  "showRibbon": false
 }

@@ -1,0 +1,11 @@
+mjx-container {
+  font-size: 1.1em !important;
+}
+
+/* Stretch lowercase pi vertically by 10%, keeping its width and baseline. */
+mjx-container mjx-c.c1D70B,
+mjx-container mjx-c.c3C0 {
+  display: inline-block;
+  transform: scaleY(1.1);
+  transform-origin: center bottom;
+}
